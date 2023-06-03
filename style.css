@@ -1,0 +1,38 @@
+*
+{
+    background-color: black;
+    color: #ffffff;
+}
+.index
+{
+    text-align: center;
+}
+.img .par
+{
+    margin-top: 0px;
+}
+a
+{
+    color: lightskyblue;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.one
+{
+    display: flex;
+}
+.two
+{
+    display: flex;
+}
+.one > div
+{
+    flex: 1;
+}
+.two > div
+{
+    flex: 1;
+}
